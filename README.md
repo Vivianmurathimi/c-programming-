@@ -1,6 +1,6 @@
 # c-programming-;loops
 
-#contains line of code of various loops 
+#contains line of code of various loops with their examples.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -146,4 +146,4 @@ int main()
         printf("%d",i);
     }
 }
-th their examples.
+
