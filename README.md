@@ -56,20 +56,7 @@ for(int i=1 ;i<=rows ;i++){
 }
   return 0;
 }*/
-//Write a C program that uses a for loop to print a reversed pattern of numbers.
- //The program should prompt the user to enter the number of rows for the pattern
-//then display a pattern where each row has numbers in descending order from the total number of rows to 1.
 
-/*int main()
-{
-    int num;
-    printf("enter no of numbers :");
-    scanf("%d",&num);
-for(int i=num ;i>=1 ;i--)
-{
-    printf("%d\n",i);
-}
-return 0;*/
 //WHILE LOOPS EG
 // write a code that continues only when the user writes their name
 /*int main()
